@@ -17,4 +17,15 @@ MATLAB script that loads all relevant data into MATLAB in order to run script ne
 - pipeHRTF.m
 MATLAB script that breaks up the convolution loop inside newHRTF.m so you can play with each black hole individually.
 
------------------------------------------------------MORE DOCUMENTATION TO COME--------------------------------------------------
+Data files:
+- theta1mod.txt
+- theta2mod.txt
+- theta3mod.txt
+- R1.txt
+- R2.txt
+- R3.txt
+- accel1.txt
+- accel2.txt
+- accel3.txt
+
+------------------------------------------MORE DOCUMENTATION TO COME--------------------------------------
