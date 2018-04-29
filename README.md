@@ -1,6 +1,9 @@
 # LIGO_Sonification
 Sonification of LIGO black hole data from 2015 merger
 
+YouTube link to completed project:
+https://www.youtube.com/watch?v=8sxf9IhrnDs
+
 Files:
 - parse.py: 
 Takes input LIGOdata.txt file and parses all relevant data, and calculates acceleration based on x,y coordinates for each black hole.
