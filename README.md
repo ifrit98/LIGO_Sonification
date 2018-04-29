@@ -1,5 +1,5 @@
 # LIGO_Sonification
-Sonification of LIGO black hole data from 2015 merger
+Sonification of LIGO black hole merger simulation data
 
 YouTube link to completed project:
 https://www.youtube.com/watch?v=8sxf9IhrnDs
