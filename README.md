@@ -4,6 +4,9 @@ Sonification of LIGO black hole merger simulation data
 YouTube link to completed project:
 https://www.youtube.com/watch?v=8sxf9IhrnDs
 
+Link to paper published in CSCE MSV (Modeling, Simulation, and Visualization) 2018:
+https://csce.ucmss.com/cr/books/2018/LFS/CSREA2018/MSV3510.pdf
+
 Files:
 - parse.py: 
 Takes input LIGOdata.txt file and parses all relevant data, and calculates acceleration based on x,y coordinates for each black hole.
